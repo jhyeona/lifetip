@@ -1,6 +1,6 @@
 # LIFETIP
 
-## React Native APP
+## React Native APP For Life Tip
 
 <p align="justify">
 </p>
